@@ -1,14 +1,3 @@
-
-function loadJSZip(callback) {
-        if (typeof JSZip !== 'undefined') {
-            callback();
-            return;
-        }
-        let script = document.createElement('script');
-        script.src = "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"; // Link CDN JSZip
-        script.onload = callback;
-        document.head.appendChild(script);
-    }
 async function saveAsEpub(BookData) {
         let content=BookData.chapter;
         let bookinfo=BookData.bookinfo;
