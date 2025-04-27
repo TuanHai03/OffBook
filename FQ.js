@@ -1,3 +1,13 @@
+const CONFIG = {
+        REG_KEY: "ac25c67ddd8f38c1b37a2348828e222e",
+        INSTALL_ID: "4427064614339001",
+        SERVER_DEVICE_ID: "4427064614334905",
+        AID: "1967",
+        VERSION_CODE: "62532",
+        MAX_CONCURRENT: 20, //批量下载数量
+        RETRY_TIMES: 5, //重试次数
+        RETRY_DELAY: 500 //重试延迟
+    };
 class FqCrypto {
     constructor(key) {
         this.key = this.hexToBytes(key);
