@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "author": "TuanHai03",
+    "description": "Gà làm cho vui"
+  },
+  "data": [
+        {
+            "name": "uukanshu",
+            "author": "TH03",
+            "path": "https://raw.githubusercontent.com/TuanHai03/vbook-extensions/main/uukanshu/plugin.zip",
+            "version": 2,
+            "source": "https://uukanshu.cc",
+            
+            "description": "uukanshu",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+    {
+            "name": "69shu",
+            "author": "TH03",
+            "path": "https://raw.githubusercontent.com/TuanHai03/vbook-extensions/main/69shu/plugin.zip",
+            "version": 7,
+            "source": "https://69shuba.cx",
+            
+            "description": "Đọc truyện trên trang 69shuba.cx",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+     {
+            "name": "idejian",
+            "author": "TH03",
+            "path": "https://raw.githubusercontent.com/TuanHai03/vbook-extensions/main/idejian/plugin.zip",
+            "version": 1,
+            "source": "https://www.idejian.com",
+            
+            "description": "Trang idejian",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+     {
+            "name": "天悦小说网",
+            "author": "TH03",
+            "path": "https://raw.githubusercontent.com/TuanHai03/vbook-extensions/main/Tianyue/plugin.zip",
+            "version": 1,
+            "source": "https://m.xtyxsw.org",
+            "description": "Thiên duyệt tiểu thuyết mạng",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+    {
+            "name": "fanqieweb",
+            "author": "TH03",
+            "path": "https://raw.githubusercontent.com/TuanHai03/vbook-extensions/main/fqweb/plugin.zip",
+            "version": 1,
+            
+            "source": "https://localhost:9999/",
+            "description": "fanqie",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+    {
+            "name": "Uaa",
+            "author": "TH03",
+            "path": "https://raw.githubusercontent.com/TuanHai03/vbook-extensions/main/Uaa/plugin.zip",
+            "version": 2,
+            
+            "source": "https://www.uaa.com/novel/list",
+            "description": "Uaa",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+    {
+            "name": "Góc truyện tranh",
+            "author": "TH03",
+            "path": "https://raw.githubusercontent.com/TuanHai03/vbook-extensions/main/goctruyentranh/plugin.zip",
+            "version": 4,
+            
+            "source": "https://goctruyentranhvui6.com",
+            "description": "Góc truyện tranh",
+            "type": "comic",
+            "locale": "vi_VN"
+        },{
+            "name": "jwxs",
+            "author": "TH03",
+            "path": "https://raw.githubusercontent.com/TuanHai03/vbook-extensions/main/jwxs/plugin.zip",
+            "version": 4,
+            "source": "https://www.jwxs.org/",
+            
+            "description": "精武小说网",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },{
+        "name": "Hentaifox.com",
+        "author": "TH03",
+        "path": "https://raw.githubusercontent.com/TuanHai03/vbook-extensions/main/htfox/plugin.zip",
+        "version": 3,
+        "source": "http://hentaifox.com/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/main/htfox/icon.png",
+        "description": "Đọc truyện trên trang http://hentaifox.com/"
+      },
+    {
+            "name": "69yuedu",
+            "author": "TH03",
+            "path": "https://raw.githubusercontent.com/TuanHai03/vbook-extensions/main/69yuedu/plugin.zip",
+            "version": 1,
+            "source": "https://www.69yuedu.net",
+            
+            "description": "Đọc truyện trên trang  69yuedu.net",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        },
+    {
+            "name": "Sáng Tác Việt",
+            "author": "TH03",
+            "path": "https://raw.githubusercontent.com/TuanHai03/vbook-extensions/main/Sangt̀acviet/plugin.zip",
+            "version": 4,
+            "source": "https://sangtacviet.app/",
+            "description": "Liên Hệ để mua HTTP SEVER",
+            "type": "chinese_novel",
+            "locale": "zh_CN"
+        }
+    ]
+}
